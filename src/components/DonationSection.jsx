@@ -1,5 +1,5 @@
 import '../styles/DonationSection.css'
-import Handshake from '../../public/images/heart-Handshake.svg';
+import Handshake from '../../public/images/heart-handshake.svg';
 
 const DonationSection = () => {
   return (
